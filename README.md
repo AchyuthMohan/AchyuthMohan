@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.js express, react**
 
-- 👨‍💻 All of my projects are available at [achyuthmohan.me](achyuthmohan.me)
+- 👨‍💻 All of my projects are available at [https://achyuthmohan.me/](https://achyuthmohan.me/)
 
 - 💬 Ask me about **Bootstrap, JavaScript,Python**
 

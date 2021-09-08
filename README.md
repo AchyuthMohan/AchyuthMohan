@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/achyuthmohan2" target="blank"><img src="https://img.shields.io/twitter/follow/achyuthmohan2?logo=twitter&style=for-the-badge" alt="achyuthmohan2" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js express, react**
+- 🌱 I’m currently learning **REST API, react**
 
 - 👨‍💻 All of my projects are available at [https://achyuthmohan.me/](https://achyuthmohan.me/)
 

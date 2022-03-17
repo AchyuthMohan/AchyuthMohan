@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achyuthmohan" alt="achyuthmohan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/achyuthmohan2" target="blank"><img src="https://img.shields.io/twitter/follow/achyuthmohan2?logo=twitter&style=for-the-badge" alt="achyuthmohan2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/achyutenv" target="blank"><img src="https://img.shields.io/twitter/follow/achyuthmohan2?logo=twitter&style=for-the-badge" alt="achyuthmohan2" /></a> </p>
 
 - 🌱 **DSA and React.js** enthusiast
 

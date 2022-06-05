@@ -6,6 +6,40 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achyuthmohan" alt="achyuthmohan" /></a> </p>
 
+```bash 
+const Achyuth={
+    "Name":"Achyuth Mohan",
+    "Age": date.now()-2002,
+    "Pronouns":"He"|"Him",
+    "Passion":["Tech","Programming","Travel"],
+    "Education":[
+        {
+            College:"Govt. Model Engineering College, Kochi",
+            Major: "Computer Science and Engineering",
+            CGPA: 10
+        },
+        {
+            School: "Bhavans Munshi Vidyashram, Kochi",
+            Stream: "Computer Science"
+            GPA:"92%"
+        }
+    ]
+    "Experience":[
+        {
+            Position:"React js developer intern",
+            Company:"TGH Technologies, Kochi",
+            Duration:"1 month"
+        },
+        {
+            Position:"React js developer intern",
+            Company:"CineTokens, Kochi",
+            Duration:"2 months"
+        }
+    ]
+
+}
+```
+
 - 🌱 **DSA and React.js** enthusiast
 
 - 👨‍💻 All of my projects are available at [https://achyuthmohan.me/](https://achyuthmohan.me/)

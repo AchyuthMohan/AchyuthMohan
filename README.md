@@ -10,7 +10,7 @@
 const Achyuth={
     "Name":"Achyuth Mohan",
     "Age": date.now()-2002,
-    "Pronouns":"He"|"Him",
+    "Pronouns":"He|Him",
     "Passion":["Food","Tech","Sleep","Travel","Music"],
     "Education":[
         {

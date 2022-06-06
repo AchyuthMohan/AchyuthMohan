@@ -11,7 +11,7 @@ const Achyuth={
     "Name":"Achyuth Mohan",
     "Age": date.now()-2002,
     "Pronouns":"He"|"Him",
-    "Passion":["Tech","Programming","Travel"],
+    "Passion":["Food","Tech","Sleep","Travel","Music"],
     "Education":[
         {
             College:"Govt. Model Engineering College, Kochi",

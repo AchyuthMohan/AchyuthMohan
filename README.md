@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hello World I'm Achyuth ✨</h1>
+<h1 align="center"><i>✨ Hello World I'm Achyuth ✨</i></h1>
 <h3 align="center"><i>- A passionate  Developer </i></h3>
 <h3 align="center">Learn To Respond Not To     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p></h3>
 

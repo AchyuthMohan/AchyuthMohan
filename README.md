@@ -28,7 +28,7 @@ const Achyuth={
         {
             Position:"React js developer intern",
             Company:"TGH Technologies, Kochi",
-            Duration:"1 month"
+            Duration:"2 month"
         },
         {
             Position:"React js developer intern",

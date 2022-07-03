@@ -42,7 +42,7 @@ const Achyuth={
 
 - 🌱 **DSA and React.js** enthusiast
 
-- 👨‍💻 All of my projects are available at [https://achyuthmohan.me/](https://achyuthmohan.me/)
+- 👨‍💻 All of my projects are available at [https://achyuthmohan.pages.dev/](https://achyuthmohan.pages.dev/)
 
 - 💬 Ask me about **Bootstrap, JavaScript,Python**
 

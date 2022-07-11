@@ -16,7 +16,7 @@ const Achyuth={
         {
             College:"Govt. Model Engineering College, Kochi",
             Major: "Computer Science and Engineering",
-            CGPA: 10
+            CGPA: "10"
         },
         {
             School: "Bhavans Munshi Vidyashram, Kochi",

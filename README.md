@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achyuthmohan" alt="achyuthmohan" /></a> </p>
 
 ```bash 
-const Achyuth={
+export const Achyuth={
     "Name":"Achyuth Mohan",
     "Age": date.now()-2002,
     "Pronouns":"He|Him",

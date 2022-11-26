@@ -23,18 +23,23 @@ export const Achyuth={
             GPA:"92%"
         }
     ]
-    "Experience":[
-        {
-            Position:"React js developer intern",
-            Company:"TGH Technologies, Kochi",
-            Duration:"2 month"
-        },
-        {
-            Position:"React js developer intern",
-            Company:"CineTokens, Kochi",
-            Duration:"2 months"
-        }
-    ]
+   "Experience":[
+  {
+      Position:"Software Developer Intern",
+      Company:"CodeDesign Inc., Bangalore",
+      Duration:"present"
+  },
+  {
+      Position:"React js developer intern",
+      Company:"TGH Technologies, Kochi",
+      Duration:"2 month"
+  },
+  {
+      Position:"React js developer intern",
+      Company:"CineTokens, Kochi",
+      Duration:"2 months"
+  }
+]
 
 }
 ```

@@ -25,7 +25,7 @@ export const Achyuth={
     ]
    "Experience":[
   {
-      Position:"Software Developer Intern",
+      Position:"SDE intern",
       Company:"CodeDesign Inc., Bangalore",
       Duration:"present"
   },

@@ -25,17 +25,17 @@ export const Achyuth={
     ]
    "Experience":[
   {
-      Position:"SDE intern",
+      Role:"SDE intern",
       Company:"CodeDesign Inc., Bangalore",
       Duration:"present"
   },
   {
-      Position:"React js developer intern",
+      Role:"React js developer intern",
       Company:"TGH Technologies, Kochi",
       Duration:"2 month"
   },
   {
-      Position:"React js developer intern",
+      Role:"React js developer intern",
       Company:"CineTokens, Kochi",
       Duration:"2 months"
   }

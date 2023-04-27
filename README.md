@@ -69,7 +69,7 @@ export const Achyuth={
 
 
 ## 🚀 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=dark)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchyuthMohan&count_private=true&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchyuthMohan&layout=compact&theme=dark) 
 
 

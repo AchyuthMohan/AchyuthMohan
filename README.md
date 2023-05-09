@@ -26,12 +26,12 @@ export const Achyuth={
   {
       Role:"SDE intern",
       Company:"CodeDesign Inc., Bangalore",
-      Duration:"present"
+      Duration:"7 months"
   },
   {
       Role:"React js developer intern",
       Company:"TGH Technologies, Kochi",
-      Duration:"2 month"
+      Duration:"2 months"
   },
   {
       Role:"React js developer intern",

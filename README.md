@@ -10,6 +10,7 @@ export const Achyuth={
     "Name":"Achyuth Mohan",
     "Age": date.now()-2002,
     "Pronouns":"He|Him",
+    "Skills":["ReactJS","Django","Java","Python","JavaScript","C","ML","Docker","IPFS","DataDog"],
     "Passion":["Food","Tech","Sleep","Travel","Music"],
     "Education":[
         {

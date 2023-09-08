@@ -33,6 +33,55 @@
 
 ###
 
+```
+export const Achyuth = {
+  Name: "Achyuth Mohan",
+  Age: date.now() - 2002,
+  Pronouns: "He|Him",
+  Skills: [
+    "ReactJS",
+    "Django",
+    "Java",
+    "Python",
+    "JavaScript",
+    "C",
+    "ML",
+    "Docker",
+    "IPFS",
+    "DataDog",
+  ],
+  Passion: ["Food", "Tech", "Sleep", "Travel", "Music"],
+  Education: [
+    {
+      College: "Govt. Model Engineering College, Kochi",
+      Major: "Computer Science and Engineering",
+    },
+    {
+      School: "Bhavans Munshi Vidyashram, Kochi",
+      Stream: "Computer Science",
+      GPA: "92%",
+    },
+  ],
+  Experience: [
+    {
+      Role: "SDE intern",
+      Company: "CodeDesign Inc., Bangalore",
+      Duration: "7 months",
+    },
+    {
+      Role: "React js developer intern",
+      Company: "TGH Technologies, Kochi",
+      Duration: "2 months",
+    },
+    {
+      Role: "React js developer intern",
+      Company: "CineTokens, Kochi",
+      Duration: "2 months",
+    },
+  ],
+};
+
+```
 <h3 align="left">🛠 Language and tools</h3>
 
 ###

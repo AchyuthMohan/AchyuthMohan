@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">✨ Hello World I'm Achyuth ✨</h1>
+<h1 align="center">< Hello World I'm Achyuth /></h1>
 
 ###
 ###

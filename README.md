@@ -33,7 +33,8 @@
 
 ###
 
-```json
+```bash
+
 export const Achyuth = {
   Name: "Achyuth Mohan",
   Age: date.now() - 2002,

@@ -56,6 +56,7 @@ export const Achyuth = {
     {
       College: "Govt. Model Engineering College, Kochi",
       Major: "Computer Science and Engineering",
+      CGPA:9.3
     },
     {
       School: "Bhavans Munshi Vidyashram, Kochi",
